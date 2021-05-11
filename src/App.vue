@@ -4,6 +4,7 @@
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
     <Img />
+    <Nav />
   </div>
 </template>
 
@@ -11,6 +12,7 @@
 import HelloWorld from "./components/HelloWorld.vue";
 import Box from "./components/Box";
 import Img from "./components/Img";
+import Nav from "./components/Img";
 
 export default {
   name: "App",
@@ -18,6 +20,7 @@ export default {
     HelloWorld,
     Box,
     Img,
+    Nav,
   },
 };
 </script>
