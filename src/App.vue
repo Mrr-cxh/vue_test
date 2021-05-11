@@ -1,14 +1,9 @@
 <template>
   <div id="app">
-    <<<<<<< HEAD
     <Box />
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
-    =======
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
     <Img />
-    >>>>>>> b
   </div>
 </template>
 
